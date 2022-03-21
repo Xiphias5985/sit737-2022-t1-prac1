@@ -1,0 +1,23 @@
+{
+  "name": "sit737-2022-t1-prac1",
+  "version": "1.0.0",
+  "description": "Practical 1 for SIT737",
+  "main": "app.js",
+  "scripts": {
+    "devStart": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xiphias5985/sit737-2022-t1-prac1.git"
+  },
+  "author": "Ben Thomas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xiphias5985/sit737-2022-t1-prac1/issues"
+  },
+  "homepage": "https://github.com/Xiphias5985/sit737-2022-t1-prac1#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
