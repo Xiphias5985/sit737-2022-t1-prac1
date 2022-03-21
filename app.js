@@ -27,5 +27,3 @@ function getTime() {
     var time = now.getHours() + ":" + now.getMinutes() + ":" + now.getSeconds();
     return time;
 }
-
-// test
